@@ -13,17 +13,23 @@ It taught me that as long as you keep trying, even little by little growth will 
 
 ---
 
-### Tech Stack & Tools
+### Tech Stack & Tools :
 - **Languages:** C, C++, Shell, Markdown.
+- **Systems:** Linux, Windows.
 - **Databases & Tools:** PostgreSQL, Git, Docker, Docker-Compose.
 - **Embedded:** Embedded-C programming, Bare-Metal programming.
 <br>
 
-### What I'm Up To
+### What I'm Up To :
 -  I’m currently working on **Transcendance** which is a full stack development project
 -  I’m currently learning **DevOps, Cloud-infrastructure, Kubernetes**  
 
 ---
+
+### Featured Project :
+
+**IRC** : Socket Management
+
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-chanliat-677440421/)
