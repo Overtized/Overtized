@@ -1,6 +1,6 @@
 # Hello there, my name's Maxence and welcome to my Github profile page !👋
 ![Profile_pic](profile_pic.png)
-### 🚀 About Me
+### About
 I am a **Software developper** currently studying at 42 Paris.
 Changed carreer path in 2024 to re-center around what i love : **Computers**.  
 
@@ -13,15 +13,15 @@ It taught me that as long as you keep trying, even little by little growth will 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 - **Languages:** C, C++, Shell, Markdown.
 - **Databases & Tools:** PostgreSQL, Git, Docker, Docker-Compose.
 - **Embedded:** Embedded-C programming, Bare-Metal programming.
 <br>
 
-### 📈 What I'm Up To
-- 🔭 I’m currently working on **Transcendance** which is a full stack development project
-- 🌱 I’m currently learning **DevOps, Cloud-infrastructure, Kubernetes**  
+### What I'm Up To
+-  I’m currently working on **Transcendance** which is a full stack development project
+-  I’m currently learning **DevOps, Cloud-infrastructure, Kubernetes**  
 
 ---
 
