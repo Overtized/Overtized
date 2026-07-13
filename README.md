@@ -11,12 +11,13 @@ _"My personal computer has always been with me but i never thought i could do so
 It taught me that as long as you keep trying, even little by little growth will happen. I try to keep that idea in mind and upkeep it throughout the journey to perfect myself as a learning software developper.
 <br>
 
+---
+
 ### 🛠️ Tech Stack & Tools
 - **Languages:** C, C++, Shell, Markdown.
 - **Databases & Tools:** PostgreSQL, Git, Docker, Docker-Compose.
 - **Embedded:** Embedded-C programming, Bare-Metal programming.
 <br>
-
 ---
 
 ### 📈 What I'm Up To
@@ -24,7 +25,6 @@ It taught me that as long as you keep trying, even little by little growth will 
 - 🌱 I’m currently learning **DevOps, Cloud-infrastructure, Kubernetes**  
 
 ---
-<br>
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-chanliat-677440421/)
