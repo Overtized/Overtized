@@ -1,5 +1,5 @@
 # Hi there, My name's Maxence and welcome to my Github profile page 👋
-
+[![Profile_pic](profile_pic.png)
 ### 🚀 About Me
 I am a **Software developper** currently studying at 42 Paris.
 Changed carreer path in 2024 to re-center around what i love : **computers**
