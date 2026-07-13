@@ -20,7 +20,7 @@ It taught me that as long as you keep trying, even little by little growth will 
 
 ### What I'm Up To :
 -  I’m currently working on **Transcendance** which is a full stack development project
--  I’m currently learning **DevOps, Cloud-infrastructure, Kubernetes**  
+-  Learning **DevOps, Cloud-infrastructure, Kubernetes**  
 
 ---
 
