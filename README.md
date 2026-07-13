@@ -1,4 +1,4 @@
-## Hello there, my name's Maxence and welcome to my Github profile page !👋
+## Hello there, my name's Maxence and welcome to my Github profile page !
 ![Profile_pic](profile_pic.png)
 ## About
 I am a **Software developper** currently studying at 42 Paris.
