@@ -1,4 +1,4 @@
-# Hello there, my name's Maxence and welcome to my Github profile page !👋
+## Hello there, my name's Maxence and welcome to my Github profile page !👋
 ![Profile_pic](profile_pic.png)
 ## About
 I am a **Software developper** currently studying at 42 Paris.
@@ -12,21 +12,21 @@ It taught me that as long as you keep trying, even little by little growth will 
 
 ---
 
-## Tech Stack & Tools :
+### Tech Stack & Tools :
 - **Languages:** C, C++, Shell, Markdown.
 - **Systems:** Linux, Windows.
 - **Databases & Tools:** PostgreSQL, Git, Docker, Docker-Compose.
 - **Embedded:** Embedded-C programming, Bare-Metal programming.
 
-## What I'm Up To :
+### What I'm Up To :
 -  I’m currently working on **Transcendance** which is a full stack development project
 -  I’m currently learning **DevOps, Cloud-infrastructure, Kubernetes**  
 
 ---
 
-## Featured Project :
+### Featured Project :
 
-### **IRC**
+#### **IRC**
  - Socket Management
  - Design and architecture
  - IRC communication protocol
