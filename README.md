@@ -9,7 +9,6 @@ _"My personal computer has always been with me but i never thought i could do so
 
 42 has been a revelation to me on how i tackle daily day-to-day challenges, and long term objective and goals.
 It taught me that as long as you keep trying, even little by little growth will happen. I try to keep that idea in mind and upkeep it throughout the journey to perfect myself as a learning software developper.
-<br>
 
 ---
 
@@ -18,7 +17,6 @@ It taught me that as long as you keep trying, even little by little growth will 
 - **Systems:** Linux, Windows.
 - **Databases & Tools:** PostgreSQL, Git, Docker, Docker-Compose.
 - **Embedded:** Embedded-C programming, Bare-Metal programming.
-<br>
 
 ## What I'm Up To :
 -  I’m currently working on **Transcendance** which is a full stack development project
