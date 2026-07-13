@@ -28,7 +28,10 @@ It taught me that as long as you keep trying, even little by little growth will 
 
 ### Featured Project :
 
-**IRC** : Socket Management
+**IRC**
+ - Socket Management
+ - Design and architecture
+ - IRC communication protocol
 
 
 ### 📫 Connect with Me
