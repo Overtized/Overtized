@@ -23,5 +23,5 @@ So as long as you keep trying even little by little growth will happen and thats
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-chanliat-677440421/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=leetcodedotcom&logoColor=white)](https://github.com/Overtized/Overtized/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chanliat.maxence@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=leetcodedotcom&logoColor=white)](https://github.com/Overtized)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanliat.maxence@gmail.com)
