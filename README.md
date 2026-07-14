@@ -21,8 +21,8 @@ I conscientiously try to keep that idea in mind throughout my journey to learn/d
 - **Embedded:** Embedded-C programming, Bare-Metal programming.
 
 ### Books that really fathomed me :
-- The Pragmatic Programmer (this one was the most valuable one) 
-- The C programming language (first book i read as a utter beginner)
+- The Pragmatic Programmer by  Andy Hunt and Dave Thomas (this one was the most valuable one) 
+- The C programming language by Brian W. Kernighan and Dennis M. Ritchie (first book i read as a utter beginner).
 
 ### What I'm Up To :
 -  I’m currently working on **Transcendance** which is a full stack development project consisting of an E-commerce site development.
