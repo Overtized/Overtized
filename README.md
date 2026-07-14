@@ -8,7 +8,7 @@ _I always had my personal computer around me, never once taught i could do somet
 <br>
 
 42 has been a revelation to me on how i tackle daily day-to-day challenges, long term objective and goals.
-It taught me that as long as i keep trying (and keep failing), even little by little growth will happen.
+It taught me that as long as i keep trying (and keep failing), even little by little, growth will happen.
 I conscientiously try to keep that idea in mind throughout my journey to learn/discover and perfect myself as a software developper.
 
 ---
@@ -21,8 +21,8 @@ I conscientiously try to keep that idea in mind throughout my journey to learn/d
 - **Embedded:** Embedded-C programming, Bare-Metal programming.
 
 ### Books that really fathomed me :
-- The Pragmatic Programmer by  Andy Hunt and Dave Thomas (this one was the most valuable one) 
-- The C programming language by Brian W. Kernighan and Dennis M. Ritchie (first book i read as a utter beginner).
+- The Pragmatic Programmer by  Andy Hunt and Dave Thomas (The most valuable one) 
+- The C programming language by Brian W. Kernighan and Dennis M. Ritchie (The first book i read as an utter beginner).
 
 ### What I'm Up To :
 -  I’m currently working on **Transcendance** which is a full stack development project consisting of an E-commerce site development.
@@ -41,13 +41,13 @@ I conscientiously try to keep that idea in mind throughout my journey to learn/d
 ## **Inception**
 - Docker and Docker-Compose
 - From scratch Dockerfiles, Docker config-files, Docker-compose config-file
-- General networking, data persistency, security
+- General networking, data persistency, security principles
 - System health / reliability and monitoring
 - Bash Scripting !
 
 ## **Embedded_C**
 - Datasheet reading
-- Rigor, Discipline and stubordness
+- Rigor, Discipline and Stubordness
 - Bare-metal programming
 - Timer/Clock control, pulse width modulation
 - UART, I2C
