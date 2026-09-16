@@ -70,7 +70,7 @@ I conscientiously try to keep that idea in mind throughout my journey to learn/d
 ## **Transcendance**
  - Full Commercial Website implementation (Database + Frontend + Backend)
  - Packs a bit of everything i learned at 42 baked into new learned Javascript language !
- - See it for yourself --> [![Transcendance]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-chanliat-677440421/](https://github.com/Overtized/Website_Transcendance))
+ - See it for yourself --> [![Transcendance](https://img.shields.io/badge/Website-Visit_Live-0066FF?logo=shopify&logoColor=white)]([https://your-website.com](https://github.com/Overtized/Website_Transcendance))
 
 Everything at 42 needs to be done **leak-free** (all kinds) without negotiation, the demand for readable, easily maintanable code is all ever present in our formation and this has been a structuring frame for me throughout the journey.
 
