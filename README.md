@@ -82,6 +82,6 @@ Everything at 42 needs to be done **leak-free** (all kinds) without negotiation,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash, c, cpp, debian, docker, express, git, github, githubactions, go, js, kubernetes, latex, linux, windows, nginx, nodejs, postgres, prisma, react, ts, vim" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,debian,docker,express,git,github,githubactions,go,js,kubernetes,latex,linux,windows,nginx,nodejs,postgres,prisma,react,ts,vim" />
   </a>
 </p>
