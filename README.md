@@ -74,11 +74,6 @@ I conscientiously try to keep that idea in mind throughout my journey to learn/d
 
 Everything at 42 needs to be done **leak-free** (all kinds) without negotiation, the demand for readable, easily maintanable code is all ever present in our formation and this has been a structuring frame for me throughout the journey.
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-chanliat-677440421/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=leetcodedotcom&logoColor=white)](https://github.com/Overtized)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanliat.maxence@gmail.com)
-
 <div align="center">
   <h2>📫 Connect with Me</h2>
   <a href="https://www.linkedin.com/in/maxence-chanliat-677440421/">
@@ -91,7 +86,7 @@ Everything at 42 needs to be done **leak-free** (all kinds) without negotiation,
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
+</br>
 
 <p align="center">
   <a href="https://skillicons.dev">
