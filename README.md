@@ -79,3 +79,5 @@ Everything at 42 needs to be done **leak-free** (all kinds) without negotiation,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-chanliat-677440421/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=leetcodedotcom&logoColor=white)](https://github.com/Overtized)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanliat.maxence@gmail.com)
+
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,docker,express,git,github,go,js,kubernetes,nginx,nodejs,postgres,prisma,react,ts,vscode,)](https://skillicons.dev)
